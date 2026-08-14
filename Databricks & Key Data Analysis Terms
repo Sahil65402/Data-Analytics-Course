@@ -1,0 +1,35 @@
+Databricks & Key Data Analysis Terms
+
+Databricks
+
+Databricks is a cloud-based data and AI platform used to collect, process, analyze, and manage large amounts of data. It brings data engineering, data science, machine learning, and analytics together in one platform.
+
+Meaning of Technical Words
+
+KPIs — Key Performance Indicators
+
+Metrics used to measure how effectively a business, team, or process is achieving its goals.
+
+Example: Sales growth, customer retention rate, and profit margin.
+
+Historical Data
+
+Data collected and stored from the past that can be used to understand trends, compare performance, and make better predictions.
+
+Example: A company's sales records from the last five years.
+
+Outliers
+
+Data points that are significantly different from the other values in a dataset.
+
+Example: If most daily sales are between ₹20,000–₹50,000 but one day shows ₹5,00,000, that value may be an outlier.
+
+Anomalies
+
+Unexpected patterns or unusual observations that differ from what is normally expected in the data.
+
+Example: A sudden spike in website traffic at 3 AM could be an anomaly.
+
+Simple Difference:
+Outlier = an unusual data value
+Anomaly = an unusual event or pattern
