@@ -1,0 +1,76 @@
+## Excel Learning Journey: Hyperlink, Shapes & Insert Image
+
+As part of my ongoing **Data Analytics learning journey**, I explored three useful Excel features that can make worksheets more interactive, visually appealing, and easier to understand.
+
+### 1. Hyperlink
+
+A hyperlink allows you to connect a cell to an external website, email address, file, or another location within the workbook.
+
+**What I learned:**
+
+* Add links to websites and online resources
+* Link to another worksheet or specific cell
+* Create clickable email links
+* Use hyperlinks for quick navigation within large workbooks
+
+**How to insert:**
+Select a cell → Right-click → Link
+or
+Insert → Link → Enter the address → OK
+
+**Why it is useful:**
+Hyperlinks can turn a simple spreadsheet into an interactive resource and make navigation much faster.
+
+---
+
+### 2. Shapes
+
+Shapes can be inserted into Excel to create visual elements such as flowcharts, process diagrams, callouts, arrows, and labels.
+
+**What I learned:**
+
+* Insert different shapes
+* Create simple process flows
+* Use arrows to show relationships
+* Add text inside shapes
+* Format shapes according to the purpose of the report
+
+**How to insert:**
+Insert → Shapes → Choose a shape → Draw it on the worksheet → Format as needed
+
+**Why it is useful:**
+Shapes are especially helpful when explaining processes, workflows, business logic, or analytical findings visually.
+
+---
+
+### 3. Insert Image
+
+Images can be added to Excel worksheets to make reports, dashboards, and presentations more engaging.
+
+**What I learned:**
+
+* Insert images directly into a worksheet
+* Resize and reposition images
+* Use images alongside tables and reports
+* Add product images or supporting visuals to datasets
+* Improve the overall presentation of dashboards and reports
+
+**How to insert:**
+Insert → Pictures → Select the image → Insert → Resize and position as required
+
+**Why it is useful:**
+Images can provide visual context and make information easier to understand, especially in dashboards and business reports.
+
+---
+
+### Key Takeaway
+
+These features may seem simple, but they can significantly improve the way information is **presented, communicated, and navigated in Excel**.
+
+**Hyperlinks** → Improve navigation and connectivity
+**Shapes** → Improve visual communication
+**Insert Image** → Improve visual presentation
+
+Learning these small but practical Excel features is helping me build a stronger foundation for creating **professional reports, dashboards, and data-driven presentations**.
+
+I’m continuing to learn Excel step by step as I work toward becoming a **Data Analyst**.
