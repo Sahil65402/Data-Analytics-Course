@@ -1,0 +1,105 @@
+## Excel Learning Journey: Comments, Tables, Filter & Sort, and Slicers
+
+As part of my **Data Analytics learning journey**, I explored four practical Excel features that can make data more organized, easier to analyze, and more interactive.
+
+### 1. Insert Comment
+
+Comments allow us to add notes, explanations, feedback, or reminders to specific cells without changing the actual data.
+
+**What I learned:**
+
+* Add comments to individual cells
+* Explain unusual or important values
+* Leave notes for other users
+* Use comments for collaboration and documentation
+
+**How to insert:**
+Select a cell → Right-click → **New Comment**
+
+**Why it is useful:**
+Comments help provide additional context and make spreadsheets easier to understand when multiple people are working on the same file.
+
+---
+
+### 2. Table
+
+The **Table** feature converts a normal data range into a structured Excel table.
+
+**What I learned:**
+
+* Convert a dataset into a formatted table
+* Automatically add filter buttons
+* Use structured and organized data
+* Apply consistent formatting
+* Expand the table automatically when new data is added
+
+**How to insert:**
+Select the dataset → **Insert → Table** → Confirm the range → OK
+
+**Why it is useful:**
+Tables make large datasets easier to manage, filter, analyze, and maintain.
+
+---
+
+### 3. Filter & Sort
+
+**Filter and Sort** are essential tools for analyzing and exploring datasets.
+
+**Sort** allows us to arrange data in a specific order, such as:
+
+* Smallest to Largest
+* Largest to Smallest
+* A to Z
+* Z to A
+
+**Filter** allows us to display only the records that meet specific conditions.
+
+**Example:**
+From a sales dataset, we can filter only the **North region** or sort sales from **highest to lowest**.
+
+**Shortcut:**
+
+**Ctrl + Shift + L** → Turn Excel Filter On/Off
+
+**How to use:**
+Select your dataset → **Data → Filter / Sort**
+
+**Why it is useful:**
+Filtering and sorting help us quickly find relevant information and identify patterns within large datasets.
+
+---
+
+### 4. Slicer
+
+A **Slicer** is an interactive filtering tool that provides visual buttons for filtering Excel Tables or PivotTables.
+
+For example, if your dataset contains **Region**, a slicer can provide buttons such as:
+
+**North | South | East | West**
+
+Clicking a button instantly filters the related data.
+
+**How to insert:**
+Select a Table or PivotTable → **Insert → Slicer** → Select the field → OK
+
+**Why it is useful:**
+
+* Makes filtering visual and interactive
+* Improves dashboard usability
+* Makes reports easier for users to explore
+* Helps quickly focus on specific categories
+
+---
+
+### Key Takeaway
+
+These four features can significantly improve the way we **organize, analyze, and present data in Excel**.
+
+**Insert Comment →** Add context and collaborate
+**Table →** Structure and organize datasets
+**Filter & Sort →** Find and analyze relevant data quickly
+**Slicer →** Create interactive filtering for reports and dashboards
+
+Learning these practical Excel features is helping me build a stronger foundation in **data analysis and data visualization** and understand how Excel can be used beyond basic calculations.
+
+**One step at a time, one skill at a time — continuing my journey toward becoming a Data Analyst.**
